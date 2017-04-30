@@ -1,5 +1,5 @@
 /*!
- * swapchar - Монгол/Англи үсгийн байрлалаар хөрвүүлэгч
+ * swapchar - Монгол/Англи үгийг үсгийн гарын байрлалаар хөрвүүлэгч
  * https://github.com/swganzo/swapchar
  * MIT License | (c) swganzo 2017
  */
